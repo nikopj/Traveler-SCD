@@ -1,4 +1,6 @@
 # Traveler-SCD
 EID101D Group Repository
 
-***Testing***
+by Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
+
+
