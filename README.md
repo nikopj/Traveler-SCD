@@ -26,7 +26,7 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
   money management) were problems that had no room for an SCD (as they were being sufficently solved by simply using a
   smart-phone). When we reorganized the data from gained from these interviews to only concerns with room for an SCD, we saw
   that safety was their largest concern.
-### We then scraped our initial value proposition (the smart keychain).
+##### We then scraped our initial value proposition (the smart keychain).
 
 ## New possibilities to explore:
   We decided to tackle this new-found concern of safety in two avenues: saftey of person (security), and health saftey.
