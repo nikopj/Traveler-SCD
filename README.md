@@ -1,7 +1,15 @@
 # Wolrd Traveler Smart Connected Device
 EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
 
-## Summary:
+## So what now?
+  We need to go back into the field and further validate our current value propositon of the backpack-tens unit device.
+  If it is indedd validated by interviews, we can move onto prototyping of the device. If it is not, we must re-evaluate
+  our customer segments concerns and come up with a more fitting product to market. However we are confident that our current
+  idea is thebomb.com!
+  
+##### Read the below information to understand the journey to our current position: "So what now?"
+
+### Summary:
   This engineering design groups aims at marketing a smart connected device (SCD) to the "World Traveler" customer segment. 
   We started this approach based purely on conjecture, and our own experiences. However, through multiples instances of
   research in the field, we've learnt much about the pains of our customer segment. Through new research, we've been able to
@@ -45,6 +53,13 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
   should pain. When asked about their current solution to the problem, many said they would like to go to a massage parlour,
   however they believed that it would be too expense, and they were to unfamiliar with the country of travel to attempt to find 
   one.
-#### This data collected from the secondary interviews has pointed us in the direction of a muscle pain-relieving product for travelers.
+##### This data collected from the secondary interviews has pointed us in the direction of a muscle pain-relieving product for travelers.
 
-### 
+### Current Value Propostion:
+  We are currently exploring the idea of combining a backpack with a tens unit. A tens unit is a commonly used physio-therapy
+  device that relaxes muscles through electrical impulses. By merging these two products, travlers could aliveate their muscle 
+  pain without having to scratch off any events on their itinterary. This deivce would be connected to one's phone, so that
+  one could look at the log of the tens unit's use (time of day & time of use), as well as prevent excess use of the device for
+  saftey reasons.
+  
+
