@@ -1,7 +1,7 @@
 # Wolrd Traveler Smart Connected Device
 EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
 
-## So what now?
+## So What Now?
   We need to go back into the field and further validate our current value propositon of the backpack-tens unit device.
   If it is indedd validated by interviews, we can move onto prototyping of the device. If it is not, we must re-evaluate
   our customer segments concerns and come up with a more fitting product to market. However we are confident that our current
@@ -36,7 +36,7 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
   that safety was their largest concern.
 ##### We then scraped our initial value proposition (the smart keychain).
 
-### New possibilities to explore:
+### New Possibilities to explore:
   We decided to tackle this new-found concern of safety in two avenues: saftey of person (security), and health saftey.
   These new possibliites caused us to think of two new products: 1) a portable home security device, to take and quikcly
   implement in your hostle or bed & breakfeast. 2) a backpack that implemented a tens unit to relax back and shoulder muscles on
