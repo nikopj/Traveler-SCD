@@ -7,7 +7,7 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
   our customer segments concerns and come up with a more fitting product to market. However we are confident that our current
   idea is thebomb.com!
   
-##### Read the below information to understand the journey to our current position: "So what now?"
+#### Read the below information to understand the journey to our current position: "So what now?"
 
 ### Summary:
   This engineering design groups aims at marketing a smart connected device (SCD) to the "World Traveler" customer segment. 
