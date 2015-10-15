@@ -8,18 +8,18 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
   refine our value proposition, and are continuing to refine and gather new information about the relation of our proposed
   production and customer segment.
 
-## Customer Segment:
+### Customer Segment:
   Our customer segment is defined as follows:
   1) 18-30 years old
   2) World Traveling backpacker
   
-## Our Start: the initial value proposition
+### Our Start: the initial value proposition
   We started off tackling this customer segment with the idea of a smart connceted keychain. The idea was that this keychian
   would connect via bluetooth to one's phone, and would alert them if the keychain (or any possesions connected) were left
   behind. We thought this was a perfect product for a World Travler, as they have to maintain a budget and schedule, and cannot
   afford to lose their belongings – boy we're we wrong.
 
-## Primary Interviews:
+### Primary Interviews:
   We conducted our primary interviews with the motive to validate our initial value proposition. We interviewd world travelers
   in both Grand Central and Times Square, asking what their largest concern whilst traveling was. We discovered that item loss
   whilst traveling was at the very bottom of their list of concerns. In fact, many of their largest concerns (such as time & 
@@ -28,10 +28,23 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
   that safety was their largest concern.
 ##### We then scraped our initial value proposition (the smart keychain).
 
-## New possibilities to explore:
+### New possibilities to explore:
   We decided to tackle this new-found concern of safety in two avenues: saftey of person (security), and health saftey.
   These new possibliites caused us to think of two new products: 1) a portable home security device, to take and quikcly
   implement in your hostle or bed & breakfeast. 2) a backpack that implemented a tens unit to relax back and shoulder muscles on
   whilst traveling.
 
+### Secondary Interviews:
+  With these two new product ideas in mind, we headed back to Grand Central to quesiton world travelers on their more specfic
+  concerns of saftey. From these interviews, we gathered that 2 in 8 people were concerned about their own security in the
+  places of stay (whilst travling). Others believed their hostles (or other places of stay) where safe/had the nesccissary
+  precautions to ensure saftey already in palce. This information detered us form the portable home secuirty idea.
+  
+  However, when we asked about back and should pain whilst traveling, we got an overwhelming conformation of the problem. 
+  Interviewees confirmed that their backpacks, and extended periods of sitting on buses or planes, caused noticable back and 
+  should pain. When asked about their current solution to the problem, many said they would like to go to a massage parlour,
+  however they believed that it would be too expense, and they were to unfamiliar with the country of travel to attempt to find 
+  one.
+#### This data collected from the secondary interviews has pointed us in the direction of a muscle pain-relieving product for travelers.
 
+### 
