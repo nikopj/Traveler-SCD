@@ -1,0 +1,24 @@
+Moving on to how we are actually going to do this...
+
+We have realized that we don't want people to have their backpacks hooked up to them directly
+for the convenience reasons.
+So we had to find a way to somehow transfer the energy wirelessly. Since tens unit does not
+require a lot of energy, we think that we can induced current to run the tens unit.
+and the rough plan is drawn and shown here.
+The basic idea is to use a potentiometer to create an oscillating current
+through the solenoid which will induce the current on the pad through change in magnetic field.
+
+ however since this is a theoratical plan
+we need to test it out and do some modifications in the lab. we are also considering
+replacing the potentiometer part with our pre made tens unit, depending on how it works out.
+
+We also have a rough outline of how our final product will look like.
+It is going to be a backpack obviously, with a giant solonoid to globally induce current to
+several pads that will be on the user's body.
+
+So our next steps would be to actually construct a prototype, and see if it works,
+and improve it further.
+and also to build on the website more.
+
+Thank you.
+
