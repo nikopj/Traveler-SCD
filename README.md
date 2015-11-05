@@ -1,4 +1,4 @@
-# Wolrd Traveler Smart Connected Device
+# World Traveler Smart Connected Device
 EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
 
 ## So What Now?
