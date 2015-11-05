@@ -1,0 +1,28 @@
+What is it?
+It’s the ultimate companion of your travels.
+It’s the friend that you always wished to have.
+
+The Coulomb Pack massages one’s back through electrical nerve stimulation techniques to reduce back and shoulder pain that is often caused by putting excessive weight on one’s shoulder. This therapeutic method has been used for decades in physical therapy offices to help those experiencing pain.
+
+Feeling lonely? Get a Coulomb Pack!
+Feeling tired? Get a Coulomb Pack!
+Don’t break your back! Get a Coulomb Pack!
+
+How?
+By inducing current through solenoids we have been able to send small pulses of current wirelessly to induce a massaging effect. To learn more about the project visit our GitHub page.
+
+FAQ
+
+Is it dangerous?
+
+The short answer is no. The long answer is NOOOOOOOOOOO. No but seriously use it for its intended purposes, that being back and shoulder pain relief.
+
+Can I adjust the massage/pulse frequency?
+
+Yes. We intend to have an online method of adjusting frequency.
+
+How did you guys come up with the name?
+
+Q = I*T
+
+Developers
