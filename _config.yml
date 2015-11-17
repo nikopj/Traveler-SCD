@@ -9,13 +9,14 @@ baseurl: "/Traveler-SCD" # the subpath of your site, e.g. /blog/
 url: "https://nikopj.github.io" # the base hostname & protocol for your site
 
 # User setting
-owner: Nikola, Varouzan, Justin, Dongkyu
+owner: "Nikola, Varouzan, Justin, Dongkyu"
 email:
 facebook_username:
 twitter_username:
 github_username:
-address: 41 Cooper Square New York
-  - line:
+address: "41 Cooper Square"
+  - line: "New York City"
+  - line: "NY, USA"
   # Feel free to add more lines here 
 telephone:
 copyright:
