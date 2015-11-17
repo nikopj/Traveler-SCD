@@ -1,5 +1,5 @@
 # Site settings
- title         : "The Coulomb Pack"
+ title         : The Coulomb Pack
  email         : "Cpack@CLabs.com"
  description   : > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -12,7 +12,8 @@
  owner         : Nikola, Varouzan, Justin, Dongkyu
  email         :
  github_username: nikopj
- address       : "41 Cooper Square, New York City, NY"
+ address       : 41 Cooper Square, New York, NY 10003
+ 
   # Feel free to add more lines here 
  telephone:
  copyright:
