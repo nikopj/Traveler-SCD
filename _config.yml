@@ -22,7 +22,7 @@ telephone:
 copyright:
 
 # API settings
-google_api_key: AIzaSyAgzEmExpyrmBw3Qdr4a7CXSfwuSUNbLrM
+google_api_key: "AIzaSyAgzEmExpyrmBw3Qdr4a7CXSfwuSUNbLrM"
 
 # Build settings
 markdown: kramdown
