@@ -1,28 +1,28 @@
 # Site settings
- title: "The Coulomb Pack"
-email: "Cpack@CLabs.com"
+title: The Coulomb Pack
+email: Cpack@CLabs.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
- baseurl: "/Traveler-SCD" # the subpath of your site, e.g. /blog/
- url: "https://nikopj.github.io" # the base hostname & protocol for your site
+baseurl: "/Traveler-SCD" # the subpath of your site, e.g. /blog/
+url: "https://nikopj.github.io" # the base hostname & protocol for your site
 
 # User setting
- owner: "Nikola, Varouzan, Justin, Dongkyu"
+owner: Nikola, Varouzan, Justin, Dongkyu
 email:
 facebook_username:
 twitter_username:
-github_username: "nikopj"
-address: "41 Cooper Square"
-  - line: "New York City"
-  - line: "NY, USA"
+github_username: nikopj
+address: 41 Cooper Square
+  - line: New York City
+  - line: NY, USA
   # Feel free to add more lines here 
- telephone:
+telephone:
 copyright:
 
 # API settings
- google_api_key: "AIzaSyAgzEmExpyrmBw3Qdr4a7CXSfwuSUNbLrM"
+google_api_key: AIzaSyAgzEmExpyrmBw3Qdr4a7CXSfwuSUNbLrM
 
 # Build settings
- markdown: kramdown
+markdown: kramdown
