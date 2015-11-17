@@ -9,20 +9,20 @@
  url: "https://nikopj.github.io" # the base hostname & protocol for your site
 
 # User setting
-owner: "Nikola, Varouzan, Justin, Dongkyu"
-email:
-facebook_username:
-twitter_username:
-github_username:
-address: "41 Cooper Square"
+ owner: "Nikola, Varouzan, Justin, Dongkyu"
+ email:
+ facebook_username:
+ twitter_username:
+ github_username:
+ address: "41 Cooper Square"
   - line: "New York City"
   - line: "NY, USA"
   # Feel free to add more lines here 
-telephone:
-copyright:
+ telephone:
+ copyright:
 
 # API settings
-google_api_key: "AIzaSyAgzEmExpyrmBw3Qdr4a7CXSfwuSUNbLrM"
+ google_api_key: "AIzaSyAgzEmExpyrmBw3Qdr4a7CXSfwuSUNbLrM"
 
 # Build settings
-markdown: kramdown
+ markdown: kramdown
