@@ -1,28 +1,24 @@
+The Z-Pack
+Traveling relaxation.
+(Sign up for the pre-order)
+
+Are your back and shoulder muscles aching from traveling?
+Why sit down to stop the adventures?
+Use the Z-Pack to aleviate your muscle pains on the go.
+
 What is it?
-It’s the ultimate companion of your travels.
-It’s the friend that you always wished to have.
+The Z-Pack is a backpack that contains a wireless electro-stimulation device. The Z-Pack sends electrical impules through pads (Z-Pads) placed wirelessly on your back to relieve your muscle aches. The Z-Pack mobile app allows you to control frequency of the impulses and log your usage. Analyze the mobile app's logs to see which when you seem to need relaxation the most!
 
-The Coulomb Pack massages one’s back through electrical nerve stimulation techniques to reduce back and shoulder pain that is often caused by putting excessive weight on one’s shoulder. This therapeutic method has been used for decades in physical therapy offices to help those experiencing pain.
 
-Feeling lonely? Get a Coulomb Pack!
-Feeling tired? Get a Coulomb Pack!
-Don’t break your back! Get a Coulomb Pack!
 
 How?
-By inducing current through solenoids we have been able to send small pulses of current wirelessly to induce a massaging effect. To learn more about the project visit our GitHub page.
+By placing the two Z-Pads onto your back or shoulder, energy is able to be transfered from the backpack through your muscles to create the ultimate relaxing sensation. Connect your smartphone via bluetooth to adjust the frequency and view the when, and for how long, your e-stim was previously used. 
 
 FAQ
-
-Is it dangerous?
-
-The short answer is no. The long answer is NOOOOOOOOOOO. No but seriously use it for its intended purposes, that being back and shoulder pain relief.
-
-Can I adjust the massage/pulse frequency?
-
-Yes. We intend to have an online method of adjusting frequency.
-
-How did you guys come up with the name?
-
-Q = I*T
+What does the 'Z' stand for?
+	Z stands for Zeus, God of thunder and lightning.
+	
+How do I buy this?
+(Sign up for the pre-order)
 
 Developers
