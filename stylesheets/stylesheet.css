@@ -31,9 +31,9 @@ a {
 .btn2 {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(21, 87, 153, 0.5);
+  color: rgba(21, 87, 153, 1);
   background-color: rgba(255, 255, 255, 1);
-  border-color: rgba(27, 120, 120, 0.4);
+  border-color: rgba(27, 120, 120, 0.8);
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
@@ -48,10 +48,10 @@ a {
   border-color: rgba(255, 255, 255, 0.3); }
 
 .btn2:hover {
-  color: rgba(21, 87, 153, 0.9);
+  color: rgba(21, 87, 153, 0.7);
   text-decoration: none;
-  background-color: rgba(255, 0, 80, 0.4);
-  border-color: rgba(27, 120, 120, 0.9); }
+  background-color: rgba(204, 204, 204, 0.4);
+  border-color: rgba(27, 120, 120, 0.4); }
   
 @media screen and (min-width: 64em) {
   .btn {
