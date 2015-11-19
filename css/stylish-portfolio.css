@@ -156,10 +156,10 @@ hr.small {
     width: 100%;
     height: 100%;
     background: "https://github.com/nikopj/Traveler-SCD/blob/gh-pages/imgs/cobble.jpeg?raw=true" no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    background-size: 100%;
+    -o-background-size: 100%;
 }
 
 /* About */
