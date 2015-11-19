@@ -154,7 +154,7 @@ hr.small {
     display: table;
     position: relative;
     width: 100%;
-    height: 800px;
+    height: 600px;
     background: url(../imgs/cobble.jpeg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -185,7 +185,7 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #fff;
-    background: "https://github.com/nikopj/Traveler-SCD/blob/gh-pages/imgs/backpacking_ancient.jpg?raw=true" no-repeat center center scroll;
+    background: url(../imgs/backpacking_ancient.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
