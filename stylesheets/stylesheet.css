@@ -31,13 +31,13 @@ a {
 .btn2 {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(21, 87, 153, 0.2);
-  background-color: rgba(21, 87, 153, 0.2);
+  color: rgba(21, 87, 153, 0.9);
+  background-color: rgba(21, 87, 153, 0.7);
   border-color: rgba(27, 120, 120, 0.2);
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
+  <!-- transition: color 0.2s, background-color 0.2s, border-color 0.2s; --> }
   .btn2 + .btn2 {
     margin-left: 1rem; }
 
