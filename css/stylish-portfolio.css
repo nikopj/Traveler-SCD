@@ -29,6 +29,10 @@ body {
     font-weight: 700;
 }
 
+.table1 {
+background: rgba(0,0,0,0.4);
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
