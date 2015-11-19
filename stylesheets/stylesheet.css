@@ -50,7 +50,7 @@ a {
 .btn2:hover {
   color: rgba(21, 87, 153, 0.7);
   text-decoration: none;
-  background-color: rgba(204, 204, 204, 0.4);
+  background-color: rgba(255, 255, 255, 1);
   border-color: rgba(27, 120, 120, 0.4); }
   
 @media screen and (min-width: 64em) {
