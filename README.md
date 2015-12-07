@@ -16,7 +16,7 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
   refine our value proposition, and are continuing to refine and gather new information about the relation of our proposed
   production and customer segment.
 
-  <IMG SRC="https://github.com/nikopj/Traveler-SCD/blob/master/imgs/Team.png?raw=true" ALT="The Team">
+  <IMG SRC="https://github.com/nikopj/Traveler-SCD/blob/master/imgs/Team.png?raw=true" ALT="The Team" width=771 height=503>
 
 ### Customer Segment:
   Our customer segment is defined as follows:
@@ -64,7 +64,7 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
   one could look at the log of the tens unit's use (time of day & time of use), as well as prevent excess use of the device for
   saftey reasons.
 
-  #### This value prop intends to adress to saftey and time management.
+#### This value prop intends to adress to saftey and time management.
 
 ### Initial Verification:
   We went into Grandcentral again to ask travlers about the tens unit combined into a backpack. Three out of six travlers interviewed said they would purchase such a product, on the grounds that the product was wireless (no wires protruding from backpack). Importantly, all those who said they experienced back pains whilst traveling also said they would buy the product.
