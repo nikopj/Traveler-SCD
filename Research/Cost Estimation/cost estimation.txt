@@ -1,0 +1,43 @@
+Z-Pack Cost Estimation
+
+https://www.google.com/shopping/product/2583500097097400689?q=tens+unit&psj=1&biw=1455&bih=705&bav=on.2,
+or.r_cp.&bvm=bv.109395566,d.dmo&tch=1&ech=1&psi=F_xoVrn4D8n7e6KDg7AD.1449720844512.3&prds=paur:CmkAsKraX
+2l3g8zJEz007eug-MdDNo3QmX6K-nqH54B_sEQ6MYvUm9A4RWVZoaEtVQLWQYuvQ0HPHQ84LlPs4xmvRsM4aIWKe-KeSKK5H4UsG9btp
+exjthDWqcudfQ1xTKjAwEqeqghsm3cSGQBT1R-9HyxC2PUUKhh_IbMInvzLhZZDI74&sa=X&ved=0ahUKEwjpi9m1t9DJAhWBGR4KHQT
+-CWIQ8wIIsQIwAg
+$19, shipping $9
+
+https://www.google.com/shopping/product/12626722059998803483?q=tens+unit&psj=1&biw=1455&bih=705&bav=on.2,
+or.r_cp.&bvm=bv.109395566,d.dmo&tch=1&ech=1&psi=F_xoVrn4D8n7e6KDg7AD.1449720844512.3&prds=paur:CmkAsKraXw
+Xcunm-F4z2yPYXqacgpl6Qx8tf49F_JkFrrjGaBco_Q6Bi4eLUKg4siLjnHsYr1c_otGXJE4P-g8Vm94FXw3qSSeiITsXKqsscQ3CIRw0
+o2w6L90ERCPNnSkO6cIkkOwr7Z4QSGQBT1R-9VPFGpHZmVdwpGVKTuTrv6BVbbHk&sa=X&ved=0ahUKEwjpi9m1t9DJAhWBGR4KHQT-CW
+IQ8wIIzgIwBg
+
+$25.5, shipping $10
+
+Realistically, a tens unit will cost about 30 bucks. (The simplest model so that we can just disect it and reuse it for our purposes.)
+
+According to Justin Jose, a 400ft magnetic coil costed him $9. Which will make about 5 to 10 products.
+
+The cost of backpacks depend on the brand. So we will probably have our cost adjusted in terms of the quality of the backpack if we were to sell.
+
+
+THIS IS ALL HYPOTHETICAL FROM THIS LINE BEYOND.
+
+Assuming that we can cut down 20% of the $30 with the economies of scale and saving on shipping costs for ordering multiple products, and
+9 dollars worth of magnetic coil will produce 10 products with the economies of scale
+
+It will be
+
+The cost of backpack + $24.9.
+
+This does not include any of the manufactoring costs. Winding up a coil from the copper wire and putting them into a backpack is not a lot of work.
+So I think the manufactoring cost should be less than 5%. Assuming 5% the cost becomes,
+
+C(backpack)*1.05 + $26.2
+
+The margin should be at least 50%, and there is the cost of shipping (assuming $10)
+
+C(backpack)*1.575 + $54.3
+
+So a backpack worth of $30 will result in a product that is roughly $100.
