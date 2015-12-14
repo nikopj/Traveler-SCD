@@ -77,7 +77,7 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
 After the initial verification, we jumped into to lab to begin prototyping our idea. There, we managed to transmit power wirelessly through solenoids we made from coper wires. It was important to do so as what makes our TENS unit special is its wireless aspect. 
 After having a functional wired TENS unit in our position and having transmitted power wirelessly, we felt that we proved that making a wireless TENS unit is feasible, as the only thing left, was to merge these two already working technologies. 
 
-####After proving that a wireless TENS unit is feasible, the team decided to focus its attention, elsewhere.
+#####After proving that a wireless TENS unit is feasible, the team decided to focus its attention, elsewhere.
 
 ### Updated Verification:
 The team felt that making a better verification on our product-market fit was more important than completing the final stage of prototyping. That is why we conducted a new set of interviews targeting travelers at Grand Central and on Saint Marks street. This time, we did not only pose questions concerning back and shoulder pain or pitch our idea, but we also showed our website and renderings of our actual product to the people we interviewed. Of the 17 travelers interviewed, 8 of them gave us their e-mails so they can join our mailing list.
