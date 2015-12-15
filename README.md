@@ -3,7 +3,7 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
 
 ## So What Now?
   We need to go back into the field and further validate our current value propositon of the backpack-tens unit device.
-  If it is indedd validated by interviews, we can move onto prototyping of the device. If it is not, we must re-evaluate
+  If it is indeed validated by interviews, we can move onto prototyping of the device. If it is not, we must re-evaluate
   our customer segments concerns and come up with a more fitting product to market. However we are confident that our current
   idea is thebomb.com!
   
@@ -24,11 +24,10 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
   2) World Traveling backpacker
   
 ### Our Start: the initial value proposition
-  We started off tackling this customer segment with the idea of a smart connceted keychain. The idea was that this keychian
+  We started off tackling this customer segment with the idea of a smart connceted keychain. The idea was that this keychain
   would connect via bluetooth to one's phone, and would alert them if the keychain (or any possesions connected) were left
-  behind. We thought this was a perfect product for a World Travler, as they have to maintain a budget and schedule, and cannot
-  afford to lose their belongings – boy we're we wrong.
-
+  behind. We thought this was a perfect product for a World Traveler, as they have to maintain a budget and schedule, and cannot
+  afford to lose their belongings. However interviews showed how only 1 in 8 people actually cared about item loss.
 ### Primary Interviews:
   We conducted our primary interviews with the motive to validate our initial value proposition. We interviewd world travelers
   in both Grand Central and Times Square, asking what their largest concern whilst traveling was. We discovered that item loss
@@ -40,7 +39,7 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
 
 ### New Possibilities to explore:
   We decided to tackle this new-found concern of safety in two avenues: saftey of person (security), and health saftey.
-  These new possibliites caused us to think of two new products: 1) a portable home security device, to take and quikcly
+  These new possibliites caused us to think of two new products: 1) a portable home security device, to take and quickly
   implement in your hostle or bed & breakfeast. 2) a backpack that implemented a tens unit to relax back and shoulder muscles on
   whilst traveling.
 
