@@ -75,7 +75,7 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
 
 ### Prototyping:
 After the initial verification, we jumped into to lab to begin prototyping our idea. There, we managed to transmit power wirelessly through solenoids we made from coper wires. It was important to do so as what makes our TENS unit special is its wireless aspect. 
-After having a functional wired TENS unit in our position and having transmitted power wirelessly, we felt that we proved that making a wireless TENS unit is feasible, as the only thing left, was to merge these two already working technologies. 
+After having a functional wired TENS unit in our posetion and having transmitted power wirelessly through solenoids, we felt that we proved that making a wireless TENS unit is feasible, as the only thing left, was to merge these two already working technologies. 
 
 #####After proving that a wireless TENS unit is feasible, the team decided to focus its attention, elsewhere.
 
