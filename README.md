@@ -63,7 +63,7 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
   one could look at the log of the tens unit's use (time of day & time of use), as well as prevent excess use of the device for
   safety reasons.
   
-  <IMG SRC="https://github.com/nikopj/Traveler-SCD/blob/master/Z-Pack%20Solidworks%20Model/zpackiso.png?raw=true" ALT="The Bag" width=771 height=503>
+  <IMG SRC="https://github.com/nikopj/Traveler-SCD/blob/master/Z-Pack%20Solidworks%20Model/zpackiso.png?raw=true" ALT="The Bag" width=1000 height=700>
 
 #### This value prop intends to adress to saftey and time management.
 
