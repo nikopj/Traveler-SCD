@@ -2,10 +2,8 @@
 EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
 
 ## So What Now?
-  We need to go back into the field and further validate our current value propositon of the backpack-tens unit device.
-  If it is indeed validated by interviews, we can move onto prototyping of the device. If it is not, we must re-evaluate
-  our customer segments concerns and come up with a more fitting product to market. However we are confident that our current
-  idea is thebomb.com!
+  
+  After conducting further interviews in St. Marks, Times Square, and Grand Central we believe we have identified a problem and found a worthy solution. We need to now combine the solenoids together with the TENS unit circuit to finish our minimum viable product. Better aesthetics will come after functionality is proven to be effective.
   
 #### Read the below information to understand the journey to our current position: "So what now?"
 
