@@ -16,7 +16,7 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
   refine our value proposition, and are continuing to refine and gather new information about the relation of our proposed
   production and customer segment.
 
-  <IMG SRC="https://github.com/nikopj/Traveler-SCD/blob/master/imgs/Team.png?raw=true" ALT="The Team" width=771 height=503>
+  <IMG SRC="https://github.com/nikopj/Traveler-SCD/blob/master/imgs/Team.png?raw=true" ALT="The Team" width=771 height=400>
 
 ### Customer Segment:
   Our customer segment is defined as follows:
