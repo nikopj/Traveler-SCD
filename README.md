@@ -61,7 +61,9 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
   device that relaxes muscles through electrical impulses. By merging these two products, travlers could aliveate their muscle 
   pain without having to scratch off any events on their itinterary. This deivce would be connected to one's phone, so that
   one could look at the log of the tens unit's use (time of day & time of use), as well as prevent excess use of the device for
-  saftey reasons.
+  safety reasons.
+  
+  <IMG SRC="https://github.com/nikopj/Traveler-SCD/blob/master/Z-Pack%20Solidworks%20Model/zpackiso.png?raw=true" ALT="The Bag" width=771 height=503>
 
 #### This value prop intends to adress to saftey and time management.
 
