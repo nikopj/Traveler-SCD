@@ -82,7 +82,7 @@ After having a functional wired TENS unit in our posetion and having transmitted
 The team felt that making a better verification on our product-market fit was more important than completing the final stage of prototyping. That is why we conducted a new set of interviews targeting travelers at Grand Central and on Saint Marks street. This time, we did not only pose questions concerning back and shoulder pain or pitch our idea, but we also showed our website and renderings of our actual product to the people we interviewed. Of the 17 travelers interviewed, 8 of them gave us their e-mails so they can join our mailing list.
 
 ### Kickstarter:
-We created a sample Kickstarter page where we present our product, our story, our goals and of course our risks and challenges.
+We created a sample Kickstarter page where we present our product, our story, our goals and of course our risks and challenges..
 #### https://www.kickstarter.com/projects/1796559534/102006959?token=311ff912
 
 
