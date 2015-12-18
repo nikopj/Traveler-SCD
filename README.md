@@ -2,19 +2,8 @@
 EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
 #THE Z-PACK
 
-
-## So What Now?
-  
-  After conducting further interviews in St. Marks, Times Square, and Grand Central we believe we have identified a problem and found a worthy solution. We need to now combine the solenoids together with the TENS unit circuit to finish our minimum viable product. Better aesthetics will come after functionality is proven to be effective.
-  
-#### Read the below information to understand the journey to our current position: "So what now?"
-
-### Summary:
-  This engineering design groups aims at marketing a smart connected device (SCD) to the "World Traveler" customer segment. 
-  We started this approach based purely on conjecture, and our own experiences. However, through multiples instances of
-  research in the field, we've learnt much about the pains of our customer segment. Through new research, we've been able to
-  refine our value proposition, and are continuing to refine and gather new information about the relation of our proposed
-  production and customer segment.
+### Introduction:
+  Our engineering design group aimed find a problem relevant towards world travelers, and be able to market a smart connected device    capable of solving this problem for them. We started this approach based purely on conjecture, and our own experiences. However,      through multiples instances of research in the field, we've learnt much about the pains of our customer segment. Through new          research, we've been able to refine our value proposition, and are continuing to refine and gather new information about the          relation of our proposed idea and customer segment.
 
   <IMG SRC="https://github.com/nikopj/Traveler-SCD/blob/master/imgs/Team.png?raw=true" ALT="The Team" width=771 height=550>
 
@@ -23,7 +12,7 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
   1) 18-30 years old
   2) World Traveling backpacker
   
-### Our Start: the initial value proposition
+### Our Start: The Initial Value Proposition
   We started off tackling this customer segment with the idea of a smart connceted keychain. The idea was that this keychain
   would connect via bluetooth to one's phone, and would alert them if the keychain (or any possesions connected) were left
   behind. We thought this was a perfect product for a World Traveler, as they have to maintain a budget and schedule, and cannot
@@ -82,6 +71,12 @@ After having a functional wired TENS unit in our posetion and having transmitted
 
 ### Updated Verification:
 The team felt that making a better verification on our product-market fit was more important than completing the final stage of prototyping. That is why we conducted a new set of interviews targeting travelers at Grand Central and on Saint Marks street. This time, we did not only pose questions concerning back and shoulder pain or pitch our idea, but we also showed our website and renderings of our actual product to the people we interviewed. Of the 17 travelers interviewed, 8 of them gave us their e-mails so they can join our mailing list.
+
+## So What Now?
+  
+  After conducting further interviews in St. Marks, Times Square, and Grand Central we believe we have identified a problem and found a worthy solution. We need to now combine the solenoids together with the TENS unit circuit to finish our minimum viable product. Better aesthetics will come after functionality is proven to be effective.
+  
+#### Read the below information to understand the journey to our current position: "So what now?"
 
 ### Kickstarter:
 We created a sample Kickstarter page where we present our product, our story, our goals and of course our risks and challenges.
