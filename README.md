@@ -93,10 +93,13 @@ We created a sample Kickstarter page where we present our product, our story, ou
 #### https://www.kickstarter.com/projects/1796559534/102006959?token=311ff912
 
 ###Important links
-        The product website:
-        http://nikopj.github.io/Traveler-SCD/
-        The kickstarter:
-        https://www.kickstarter.com/projects/1796559534/102006959?token=311ff912
-        The launcher video:
-        https://youtu.be/2nGLC8QXn64
+
+The product website:
+http://nikopj.github.io/Traveler-SCD/
+
+The kickstarter:
+https://www.kickstarter.com/projects/1796559534/102006959?token=311ff912
+
+The launcher video:
+https://youtu.be/2nGLC8QXn64
         
