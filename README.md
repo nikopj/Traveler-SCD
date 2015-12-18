@@ -92,7 +92,7 @@ The team felt that making a better verification on our product-market fit was mo
 We created a sample Kickstarter page where we present our product, our story, our goals and of course our risks and challenges.
 #### https://www.kickstarter.com/projects/1796559534/102006959?token=311ff912
 
-        ###Important links
+###Important links
         The product website:
         http://nikopj.github.io/Traveler-SCD/
         The kickstarter:
