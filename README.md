@@ -81,6 +81,10 @@ After the initial verification, we jumped into to lab to begin prototyping our i
 
 We also had a functional TENS unit and thus having transmitted power wirelessly through solenoids, we felt that we proved that making a wireless TENS unit is feasible, as the only thing left, was to merge these two already working technologies. 
 
+  <IMG SRC="https://raw.githubusercontent.com/nikopj/Traveler-SCD/master/imgs/zpacktens.png" ALT="The TENS" width=1000 height=400>
+
+
+
 #####After proving that a wireless TENS unit is feasible, the team decided to focus its attention, elsewhere.
 
 ### Updated Verification:
