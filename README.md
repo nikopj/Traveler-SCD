@@ -77,6 +77,8 @@ Our engineering design group aimed to find a problem relevant towards world trav
 ### Prototyping:
 After the initial verification, we jumped into to lab to begin prototyping our idea. There, we managed to transmit power wirelessly through solenoids we made from 30 awg magnet wire. It was important to do so as what makes our TENS unit special is its wireless aspect. 
 
+  <IMG SRC="https://raw.githubusercontent.com/nikopj/Traveler-SCD/master/imgs/Solenoids.png" ALT="The Solenoids" width=1000 height=400>
+
 We also had a functional TENS unit and thus having transmitted power wirelessly through solenoids, we felt that we proved that making a wireless TENS unit is feasible, as the only thing left, was to merge these two already working technologies. 
 
 #####After proving that a wireless TENS unit is feasible, the team decided to focus its attention, elsewhere.
