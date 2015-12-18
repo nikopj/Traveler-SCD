@@ -5,7 +5,7 @@ EID101D: Nikola Janjusevic, DongKyu Kim, Varouzan Knouni, Justin Jose
 ### Introduction:
   Our engineering design group aimed find a problem relevant towards world travelers, and be able to market a smart connected device    capable of solving this problem for them. We started this approach based purely on conjecture, and our own experiences. However,      through multiples instances of research in the field, we've learnt much about the pains of our customer segment. Through new          research, we've been able to refine our value proposition, and are continuing to refine and gather new information about the          relation of our proposed idea and customer segment.
   
-  ## So What Now? Latest Update:
+  ### So What Now? Latest Update:
   
   After conducting further interviews in St. Marks, Times Square, and Grand Central we believe we have identified a problem and found a worthy solution. We need to now combine the solenoids together with the TENS unit circuit to finish our minimum viable product. Better aesthetics will come after functionality is proven to be effective.
 
