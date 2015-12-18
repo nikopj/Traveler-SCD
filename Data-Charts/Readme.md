@@ -1,1 +1,1 @@
-These are compiled data of interviews with charts for visual representation.
+This folder contains compiled data of interviews with charts for visual representation.
