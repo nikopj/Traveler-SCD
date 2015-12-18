@@ -15,7 +15,7 @@ Our engineering design group aimed to find a problem relevant towards world trav
    product. Better aesthetics will come after functionality is proven to be effective.
 
 
-  <IMG SRC="https://github.com/nikopj/Traveler-SCD/blob/master/imgs/Team.png?raw=true" ALT="The Team" width=771 height=450>
+  <IMG SRC="https://github.com/nikopj/Traveler-SCD/blob/master/imgs/Team.png?raw=true" ALT="The Team" width=771 height=490>
 
 ### Customer Segment:
   Our customer segment is defined as follows:
